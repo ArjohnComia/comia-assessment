@@ -1,9 +1,3 @@
-<!-- # Library Management System
-
-This is a full-stack library management system with a Bun backend and a React/Vite frontend. It supports borrowing and returning books, user and admin roles, and various reporting features.
-
---- -->
-
 ## Setup Instructions
 
 ### 1. Clone the Repository
