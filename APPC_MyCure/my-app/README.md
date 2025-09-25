@@ -79,6 +79,7 @@ bun test
 * You can modify initial users, books, and borrowings by editing the SQL file in `server/db.sql`.
 * Frontend forms are located in the `client` folder.
 * Inspect the page if the token authorization is expired. Features will not work without authorization
+* Api endpoints could also be tested through Postman with url `http://localhost:3000`
 
 ---
 
