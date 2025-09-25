@@ -37,6 +37,11 @@ bun install
 ### 4. Configure Environment
 
 * Make sure your `.env` file contains the correct PostgreSQL connection info (host, port, user, password, database).
+
+> JWT_SECRET=your_key
+> DB_USER=your_db_user
+> DB_PASSWORD=your_db_password
+
 * Ensure the backend URL in `client/vite.config.ts` matches your backend port.
 
 ### 5. Start the Application
