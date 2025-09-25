@@ -3,8 +3,8 @@
 ### 1. Clone the Repository
 
 ```bash
-git clone <your-repo-url>
-cd <repo-folder>
+git clone https://github.com/ArjohnComia/comia-assessment.git
+cd APPC_MyCure
 ```
 
 ### 2. Install Dependencies
