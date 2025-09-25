@@ -15,7 +15,7 @@ cd <repo-folder>
 
 ### 2. Install Dependencies
 
-#### Root (Backend)
+#### Root (my-app)
 
 ```bash
 bun install
@@ -80,7 +80,7 @@ bun test
 ## Folder Structure
 
 ```
-root/
+my-app/
 ├─ server/        # Backend code, database scripts (db.sql)
 ├─ client/        # React/Vite frontend
 ├─ .env           # Environment variables
